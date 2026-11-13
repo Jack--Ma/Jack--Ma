@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Jack--Ma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Jack Ma
 
-<!---
-Jack--Ma/Jack--Ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior iOS engineer and mobile engineering lead based in Japan. I build native iOS apps and focus on architecture, audio and video, and performance. I also lead delivery across iOS and Android.
+
+I’m building Daynest, a SwiftUI personal finance app for iPhone and iPad with AI-assisted bookkeeping.
+
+[Portfolio](https://jack--ma.github.io/) · [日本語](https://jack--ma.github.io/resume-ja.html) · [English](https://jack--ma.github.io/resume-en.html) · [中文](https://jack--ma.github.io/resume-zh.html)
